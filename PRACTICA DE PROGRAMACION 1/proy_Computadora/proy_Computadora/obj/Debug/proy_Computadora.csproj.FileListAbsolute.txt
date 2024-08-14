@@ -1,0 +1,6 @@
+C:\Users\Kender\Documents\SharpDevelop Projects\proy_Computadora\proy_Computadora\bin\Debug\proy_Computadora.exe.config
+C:\Users\Kender\Documents\SharpDevelop Projects\proy_Computadora\proy_Computadora\bin\Debug\proy_Computadora.exe
+C:\Users\Kender\Documents\SharpDevelop Projects\proy_Computadora\proy_Computadora\bin\Debug\proy_Computadora.pdb
+C:\Users\Kender\Documents\SharpDevelop Projects\proy_Computadora\proy_Computadora\obj\Debug\proy_Computadora.csprojResolveAssemblyReference.cache
+C:\Users\Kender\Documents\SharpDevelop Projects\proy_Computadora\proy_Computadora\obj\Debug\proy_Computadora.exe
+C:\Users\Kender\Documents\SharpDevelop Projects\proy_Computadora\proy_Computadora\obj\Debug\proy_Computadora.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kender\Documents\SharpDevelop Projects\proyectoEmpresa\proyectoEmpresa\bin\Debug\proyectoEmpresa.exe.config
+C:\Users\Kender\Documents\SharpDevelop Projects\proyectoEmpresa\proyectoEmpresa\bin\Debug\proyectoEmpresa.exe
+C:\Users\Kender\Documents\SharpDevelop Projects\proyectoEmpresa\proyectoEmpresa\bin\Debug\proyectoEmpresa.pdb
+C:\Users\Kender\Documents\SharpDevelop Projects\proyectoEmpresa\proyectoEmpresa\obj\Debug\proyectoEmpresa.csprojResolveAssemblyReference.cache
+C:\Users\Kender\Documents\SharpDevelop Projects\proyectoEmpresa\proyectoEmpresa\obj\Debug\proyectoEmpresa.exe
+C:\Users\Kender\Documents\SharpDevelop Projects\proyectoEmpresa\proyectoEmpresa\obj\Debug\proyectoEmpresa.pdb
+C:\Users\Kender\Desktop\practica2Programacion\proyectoEmpresa\proyectoEmpresa\obj\Debug\proyectoEmpresa.csprojResolveAssemblyReference.cache
+C:\Users\Kender\Desktop\practica2Programacion\proyectoEmpresa\proyectoEmpresa\obj\Debug\proyectoEmpresa.exe
+C:\Users\Kender\Desktop\practica2Programacion\proyectoEmpresa\proyectoEmpresa\bin\Debug\proyectoEmpresa.exe.config
+C:\Users\Kender\Desktop\practica2Programacion\proyectoEmpresa\proyectoEmpresa\bin\Debug\proyectoEmpresa.exe
+C:\Users\Kender\Desktop\practica2Programacion\proyectoEmpresa\proyectoEmpresa\bin\Debug\proyectoEmpresa.pdb
+C:\Users\Kender\Desktop\practica2Programacion\proyectoEmpresa\proyectoEmpresa\obj\Debug\proyectoEmpresa.pdb

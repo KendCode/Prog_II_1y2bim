@@ -1,0 +1,20 @@
+F:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.exe.config
+F:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.exe
+F:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.pdb
+F:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.csprojResolveAssemblyReference.cache
+F:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.exe
+F:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.pdb
+G:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.csprojResolveAssemblyReference.cache
+G:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.exe
+G:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.exe.config
+G:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.exe
+G:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.pdb
+G:\Programacion II\2bim\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.pdb
+C:\Users\Kender\Downloads\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.exe.config
+C:\Users\Kender\Downloads\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.exe
+C:\Users\Kender\Downloads\Proy_Institucion\Proy_Institucion\bin\Debug\Proy_Institucion.pdb
+C:\Users\Kender\Downloads\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.csprojResolveAssemblyReference.cache
+C:\Users\Kender\Downloads\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.exe
+C:\Users\Kender\Downloads\Proy_Institucion\Proy_Institucion\obj\Debug\Proy_Institucion.pdb
+E:\SISTEMAS INFORMATICOS\2 PROGRAMACIÓN II\Proy_Institucion - PROPIEDADES\Proy_Institucion\obj\Debug\Proy_Institucion.csprojResolveAssemblyReference.cache
+E:\SISTEMAS INFORMATICOS\2 PROGRAMACIÓN II\Proy_Institucion - PROPIEDADES\Proy_Institucion\obj\Debug\Proy_Institucion.exe

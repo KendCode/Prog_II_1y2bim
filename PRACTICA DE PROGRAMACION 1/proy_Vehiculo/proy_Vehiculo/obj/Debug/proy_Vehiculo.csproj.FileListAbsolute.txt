@@ -1,0 +1,6 @@
+C:\Users\Kender\Desktop\Nueva carpeta\proy_Vehiculo\proy_Vehiculo\bin\Debug\proy_Vehiculo.exe.config
+C:\Users\Kender\Desktop\Nueva carpeta\proy_Vehiculo\proy_Vehiculo\bin\Debug\proy_Vehiculo.exe
+C:\Users\Kender\Desktop\Nueva carpeta\proy_Vehiculo\proy_Vehiculo\bin\Debug\proy_Vehiculo.pdb
+C:\Users\Kender\Desktop\Nueva carpeta\proy_Vehiculo\proy_Vehiculo\obj\Debug\proy_Vehiculo.csprojResolveAssemblyReference.cache
+C:\Users\Kender\Desktop\Nueva carpeta\proy_Vehiculo\proy_Vehiculo\obj\Debug\proy_Vehiculo.exe
+C:\Users\Kender\Desktop\Nueva carpeta\proy_Vehiculo\proy_Vehiculo\obj\Debug\proy_Vehiculo.pdb
